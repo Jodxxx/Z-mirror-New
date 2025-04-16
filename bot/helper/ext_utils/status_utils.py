@@ -203,7 +203,7 @@ async def get_readable_message(
         status="All",
         page_step=1
     ):
-    msg = "<a href='https://t.me/JetMirror'>𝑩𝒐𝒕 𝒃𝒚 🚀 𝑱𝒆𝒕-𝑴𝒊𝒓𝒓𝒐𝒓</a>\n"
+    msg = "<a href='https://t.me/Drxupdates'>𝑩𝒐𝒕 𝒃𝒚 ☠️ 𝑱od-𝑴𝒊𝒓𝒓𝒐𝒓</a>\n"
     button = None
 
     tasks = await sync_to_async(
